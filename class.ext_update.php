@@ -5,6 +5,7 @@ namespace SJBR\StaticInfoTablesNl;
 /* * *************************************************************
  *  Copyright notice
  *
+ *  (c) 2021 Ephraim Härer <ephraim.haerer@renolit.com>
  *  (c) 2013-2015 Stanislas Rolland <typo3(arobas)sjbr.ca>
  *  (c) 2017 Ephraim Härer <ephraim.haerer@renolit.com>
  *  All rights reserved
@@ -25,6 +26,7 @@ namespace SJBR\StaticInfoTablesNl;
  *
  *  This copyright notice MUST APPEAR in all copies of the script!
  * ************************************************************* */
+
 use TYPO3\CMS\Core\Utility\GeneralUtility;
 use TYPO3\CMS\Extbase\Utility\LocalizationUtility;
 

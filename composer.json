@@ -1,5 +1,5 @@
 {
-  "name": "sjbr/static-info-tables-nl",
+  "name": "renolit/static-info-tables-nl",
   "type": "typo3-cms-extension",
   "description": "Dutch (nl) language pack for the Static Info Tables providing localized names for countries, currencies and so on.",
   "license": [
