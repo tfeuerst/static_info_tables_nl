@@ -20,7 +20,6 @@
     }
   ],
   "replace": {
-    "static_info_tables_nl": "self.version",
     "typo3-ter/static-info-tables-nl": "self.version"
   },
   "require": {
