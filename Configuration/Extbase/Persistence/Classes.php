@@ -31,6 +31,12 @@ return [
             'shortNameNl' => [
                 'fieldName' => 'cn_short_nl',
             ],
+            'officialNameNl' => [
+                'fieldName' => 'cn_official_name_nl',
+            ],
+            'capitalNl' => [
+                'fieldName' => 'cn_capital_nl',
+            ],
         ],
     ],
     \SJBR\StaticInfoTables\Domain\Model\CountryZone::class => [
